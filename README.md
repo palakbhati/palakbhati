@@ -27,7 +27,7 @@ I build LLM applications that are meant to run in production, not just in a note
 
 ## Tech I use
 
-**LLM and agents:** LangChain, LangGraph, LangSmith, Groq, Gemini, Mistral, Ollama, Whisper
-**Retrieval and eval:** Qdrant, ChromaDB, FAISS, Sentence-Transformers, Docling, Ragas
-**ML:** scikit-learn, pandas, NumPy
-**Backend and deploy:** Python, FastAPI, Streamlit, Pydantic, Docker, GitHub Actions, Google Cloud Run, pytest
+- **LLM and agents:** LangChain, LangGraph, LangSmith, Groq, Gemini, Mistral, Ollama, Whisper
+- **Retrieval and eval:** Qdrant, ChromaDB, FAISS, Sentence-Transformers, Docling, Ragas
+- **ML:** scikit-learn, pandas, NumPy
+- **Backend and deploy:** Python, FastAPI, Streamlit, Pydantic, Docker, GitHub Actions, Google Cloud Run, pytest
