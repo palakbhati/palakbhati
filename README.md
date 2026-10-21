@@ -4,7 +4,7 @@
 
 I build two kinds of things in Python: **LLM applications** that are meant to run in production (access-controlled retrieval, guardrails, evaluation in CI, cost tracking), and **backend web apps** with role-based access, PostgreSQL, Pytest suites and Docker deploys on Google Cloud Run.
 
-[Portfolio](https://palakbuilds-portfolio.netlify.app) | [LinkedIn](https://linkedin.com/in/palakbhati) | [Email](mailto:palakbhati7488@gmail.com) | [Resume](https://github.com/palakbhati/palakbhati/blob/HEAD/Palak_resume.pdf)
+[Portfolio](https://palakbuilds-portfolio.netlify.app) | [LinkedIn](https://linkedin.com/in/palakbhati) | [Email](mailto:palakbhati7488@gmail.com)
 
 **Open to:** AI Engineer, GenAI Engineer, Python Developer and Backend Developer internship roles. Available now.
 
